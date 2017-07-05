@@ -1,0 +1,28 @@
+{
+  "name": "review",
+  "version": "1.0.0",
+  "description": "SimpleCheers Automation",
+  "main": "protractor-conf.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivekbrahmadandi/SimpleCheers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivekbrahmadandi/SimpleCheers/issues"
+  },
+  "homepage": "https://github.com/vivekbrahmadandi/SimpleCheers#readme",
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "chai-as-promised": "^7.1.1",
+    "cucumber": "^2.3.1",
+    "cucumber-html-report": "^0.6.0",
+    "cucumber-html-reporter": "^2.0.0",
+    "mkdirp": "^0.5.1",
+    "protractor-cucumber-framework": "^3.1.2"
+  }
+}
